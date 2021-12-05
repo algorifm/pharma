@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pharma/static/css/main.711b849b.chunk.css",
+    "main.js": "/pharma/static/js/main.84882836.chunk.js",
+    "main.js.map": "/pharma/static/js/main.84882836.chunk.js.map",
+    "runtime-main.js": "/pharma/static/js/runtime-main.62607176.js",
+    "runtime-main.js.map": "/pharma/static/js/runtime-main.62607176.js.map",
+    "static/js/2.d34f6e2d.chunk.js": "/pharma/static/js/2.d34f6e2d.chunk.js",
+    "static/js/2.d34f6e2d.chunk.js.map": "/pharma/static/js/2.d34f6e2d.chunk.js.map",
+    "static/js/3.cd960ca4.chunk.js": "/pharma/static/js/3.cd960ca4.chunk.js",
+    "static/js/3.cd960ca4.chunk.js.map": "/pharma/static/js/3.cd960ca4.chunk.js.map",
+    "index.html": "/pharma/index.html",
+    "static/css/main.711b849b.chunk.css.map": "/pharma/static/css/main.711b849b.chunk.css.map",
+    "static/js/2.d34f6e2d.chunk.js.LICENSE.txt": "/pharma/static/js/2.d34f6e2d.chunk.js.LICENSE.txt",
+    "static/media/Group 9.afd303d9.svg": "/pharma/static/media/Group 9.afd303d9.svg",
+    "static/media/main.scss": "/pharma/static/media/Rectangle 13 (1).35b46f50.png",
+    "static/media/logo.6ce24c58.svg": "/pharma/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62607176.js",
+    "static/js/2.d34f6e2d.chunk.js",
+    "static/css/main.711b849b.chunk.css",
+    "static/js/main.84882836.chunk.js"
+  ]
+}
