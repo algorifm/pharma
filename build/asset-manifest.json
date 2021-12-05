@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Pharma-Forecast/static/css/main.84895aab.chunk.css",
+    "main.js": "/Pharma-Forecast/static/js/main.84882836.chunk.js",
+    "main.js.map": "/Pharma-Forecast/static/js/main.84882836.chunk.js.map",
+    "runtime-main.js": "/Pharma-Forecast/static/js/runtime-main.1d03aa4d.js",
+    "runtime-main.js.map": "/Pharma-Forecast/static/js/runtime-main.1d03aa4d.js.map",
+    "static/js/2.d34f6e2d.chunk.js": "/Pharma-Forecast/static/js/2.d34f6e2d.chunk.js",
+    "static/js/2.d34f6e2d.chunk.js.map": "/Pharma-Forecast/static/js/2.d34f6e2d.chunk.js.map",
+    "static/js/3.cd960ca4.chunk.js": "/Pharma-Forecast/static/js/3.cd960ca4.chunk.js",
+    "static/js/3.cd960ca4.chunk.js.map": "/Pharma-Forecast/static/js/3.cd960ca4.chunk.js.map",
+    "index.html": "/Pharma-Forecast/index.html",
+    "static/css/main.84895aab.chunk.css.map": "/Pharma-Forecast/static/css/main.84895aab.chunk.css.map",
+    "static/js/2.d34f6e2d.chunk.js.LICENSE.txt": "/Pharma-Forecast/static/js/2.d34f6e2d.chunk.js.LICENSE.txt",
+    "static/media/Group 9.afd303d9.svg": "/Pharma-Forecast/static/media/Group 9.afd303d9.svg",
+    "static/media/main.scss": "/Pharma-Forecast/static/media/Rectangle 13 (1).35b46f50.png",
+    "static/media/logo.6ce24c58.svg": "/Pharma-Forecast/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d03aa4d.js",
+    "static/js/2.d34f6e2d.chunk.js",
+    "static/css/main.84895aab.chunk.css",
+    "static/js/main.84882836.chunk.js"
+  ]
+}

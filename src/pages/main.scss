@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 1200px;
+  margin: auto;
+}
+header {
+  background-image: url("../assets/images/Rectangle\ 13\ \(1\).png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  nav {
+    padding: 30px 0;
+    div {
+      display: flex;
+    }
+    ul {
+      display: flex;
+      list-style: none;
+      a {
+        padding: 10px;
+        margin: 0 20px;
+        color: black;
+        text-decoration: none;
+      }
+    }
+
+    .lang {
+      margin-left: auto;
+      margin-right: 30px;
+    }
+  }
+  .container-w{
+      display: flex;
+      height: 65%;
+  }
+  .description-box {
+    background: #ffffff;
+    border: 1px solid #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 400px;
+    margin: auto 0 auto auto;
+    padding: 40px 20px;
+    .title {
+      font-weight: 600;
+      font-size: 22px;
+      line-height: 27px;
+
+      color: #7c7373;
+    }
+    .description {
+      font-size: 14px;
+      line-height: 17px;
+      color: #6a6767;
+      margin: 20px 0 50px;
+    }
+    button {
+      background: rgba(39, 164, 255, 0.88);
+      border-radius: 25px;
+      padding: 15px 30px;
+      margin: auto;
+      display: block;
+      color: white;
+      border: 0;
+    }
+  }
+  .card-box-wrapper{
+      display: flex;
+      justify-content: space-between;
+      .card-box{
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          width: 22%;
+          text-align: center;
+          background-color: white;
+          padding: 20px;
+          box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+          img{
+              margin: auto;
+              display: block;
+          }
+          p{
+              margin-top: 10px;
+          }
+      }
+  }
+}
